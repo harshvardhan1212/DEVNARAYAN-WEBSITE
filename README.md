@@ -6,6 +6,7 @@
 
 (a). User-Friendly Interface:
    -> Intuitive navigation and user-friendly design.
+   
    -> Clear and enticing presentation of ice cream flavors and options.
    -> User account creation and profile management.
 
