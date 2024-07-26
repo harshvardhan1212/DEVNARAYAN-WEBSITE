@@ -55,6 +55,19 @@
 
  ![image](https://github.com/harshvardhan1212/DEVNARAYAN-WEBSITE/assets/114464402/ac42b43a-a207-4ca6-ad81-ece59ad8193d)
  ![image](https://github.com/harshvardhan1212/DEVNARAYAN-WEBSITE/assets/114464402/eb8ad38d-84df-4c82-9735-1faf9d8ee24b)
+ ![image](https://github.com/user-attachments/assets/0e6ce64d-3e97-4f0e-a37d-79783ce87b41)
+ ![image](https://github.com/user-attachments/assets/f69d90c6-9862-419b-85e5-9ea35c23f9c4)
+ 
+ #Admin-site:-
+ ![image](https://github.com/user-attachments/assets/3898cba4-4c09-4cde-a4e8-287ec603b331)
+ ![image](https://github.com/user-attachments/assets/7366ad0e-7831-48b6-ab26-aeac8c96f7aa)
+ ![image](https://github.com/user-attachments/assets/9fe9e5b0-dd2e-44d2-8f5f-695b51986dae)
+
+
+
+ 
+
+
 
  
 
