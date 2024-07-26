@@ -1,5 +1,5 @@
 # DEVNARAYAN-WEBSITE
-->The DEVNARAYAN website  project aims to create a user-friendly and efficient website for an ice cream delivery web. The website will serve as the online platform through which customers can browse, order, and 
+  ->The DEVNARAYAN website  project aims to create a user-friendly and efficient website for an ice cream delivery web. The website will serve as the online platform through which customers can browse, order, and 
   enjoy various ice cream flavors and treats delivered to their doorstep. 
 
 #Key Features
@@ -7,7 +7,6 @@
 
 (a). User-Friendly Interface:
    -> Intuitive navigation and user-friendly design.
-   
    -> Clear and enticing presentation of ice cream flavors and options.
    -> User account creation and profile management.
 
