@@ -8,7 +8,7 @@
 
 (a). User-Friendly Interface:
    
-   -> Intuitive navigation and user-friendly design.
+    -> Intuitive navigation and user-friendly design.
    
    -> Clear and enticing presentation of ice cream flavors and options.
    
