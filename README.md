@@ -10,9 +10,9 @@
    
     -> Intuitive navigation and user-friendly design.
    
-   -> Clear and enticing presentation of ice cream flavors and options.
+    -> Clear and enticing presentation of ice cream flavors and options.
    
-   -> User account creation and profile management.
+    -> User account creation and profile management.
 
 (b). Ice Cream Catalog and Gallery:
    
