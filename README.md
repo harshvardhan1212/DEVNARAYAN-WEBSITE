@@ -3,6 +3,8 @@ Sure! Here's a draft for your README file:
 ---
 
 # Devnarayan Ice Cream Delivery Website (Admin Panel POC)
+-https://devnarayan.vercel.app/
+-https://devnarayan-adminsite.vercel.app/
 
 Welcome to the Devnarayan Ice Cream Delivery Website project! This project serves as a Proof of Concept (POC) for an ice cream delivery system, featuring both a customer-facing website and an admin panel. The project is built using the MERN stack (MongoDB, Express, React, Node.js).
 
